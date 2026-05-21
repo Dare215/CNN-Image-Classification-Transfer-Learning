@@ -104,3 +104,22 @@ CNN-Image-Classification-Transfer-Learning/
 ├── data/
 ├── README.md
 └── requirements.txt
+
+---
+
+## Author
+### Darious Brown
+PhD Candidate — Artificial Intelligence & Machine Learning
+
+Areas of Interest:
+- Deep Learning
+- Predictive Analytics
+- Computer Vision
+- Biotech AI Applications
+- AI-Driven Operational Intelligence
+
+Portfolio:
+https://dare215.github.io/DariousBrown-Portfolio/
+
+LinkedIn:
+https://www.linkedin.com/in/dariousbrown
