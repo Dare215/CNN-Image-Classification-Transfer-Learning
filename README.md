@@ -107,6 +107,13 @@ Key outcomes included:
 
 The project demonstrates how deep learning workflows can be scaled for real-world computer vision applications in healthcare, biotech, manufacturing, and automation systems.
 
+---
+
+### Final Model Performance
+Training Accuracy: 55.79%
+Validation Accuracy: 55.78%
+Test Accuracy: 55.63%
+
 ## Repository Structure
 
 ```text
