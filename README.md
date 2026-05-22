@@ -114,6 +114,20 @@ Training Accuracy: 55.79%
 Validation Accuracy: 55.78%
 Test Accuracy: 55.63%
 
+---
+
+## Future Improvements
+
+Future enhancements may include:
+- Hyperparameter optimization
+- Additional transfer learning architectures
+- GPU optimization
+- Model deployment using Streamlit or Flask
+- Real-time image inference pipelines
+- Integration with biomedical imaging datasets
+- Explainable AI (XAI) visualization methods
+---
+
 ## Repository Structure
 
 ```text
