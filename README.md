@@ -94,6 +94,19 @@ Model performance was evaluated using:
 
 ---
 
+## Results
+
+The transfer learning-based CNN model successfully learned image classification patterns across multiple object categories. The model demonstrated improved validation performance through convolutional feature extraction, augmentation strategies, and regularization techniques.
+
+Key outcomes included:
+- Improved classification accuracy using transfer learning
+- Reduced overfitting through dropout regularization
+- Balanced dataset representation
+- Efficient feature extraction using pretrained architectures
+- Successful image pattern recognition across multiple classes
+
+The project demonstrates how deep learning workflows can be scaled for real-world computer vision applications in healthcare, biotech, manufacturing, and automation systems.
+
 ## Repository Structure
 
 ```text
