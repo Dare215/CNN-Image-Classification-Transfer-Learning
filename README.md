@@ -104,7 +104,19 @@ CNN-Image-Classification-Transfer-Learning/
 ├── data/
 ├── README.md
 └── requirements.txt
+```
+---
 
+## Visualizations
+
+### Sample Dataset Images
+![Dataset Images](visuals/sample_dataset_images.png)
+
+### Dataset Visualization
+![Dataset Visualization](visuals/dataset_visualization.png)
+
+### Class Distribution
+![Class Distribution](visuals/class_distribution.png)
 ---
 
 ## Author
