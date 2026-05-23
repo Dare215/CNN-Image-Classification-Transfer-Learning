@@ -110,9 +110,11 @@ The project demonstrates how deep learning workflows can be scaled for real-worl
 ---
 
 ### Final Model Performance
-Training Accuracy: 55.79%
-Validation Accuracy: 55.78%
-Test Accuracy: 55.63%
+Attention CNN Test Loss: 1.8955947160720825
+Attention CNN Test Accuracy: 0.4041999876499176
+Training Accuracy: 49.63%
+Validation Accuracy: 40.42%
+Test Accuracy: 40.42%
 
 ---
 
