@@ -118,6 +118,27 @@ Test Accuracy: 56.62%
 
 ---
 
+## Installation & Execution
+
+Clone repository:
+
+```bash
+git clone https://github.com/Dare215/CNN-Image-Classification-Transfer-Learning.git
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run notebook:
+
+```bash
+jupyter notebook
+```
+---
+
 ## Future Improvements
 
 Future enhancements may include:
